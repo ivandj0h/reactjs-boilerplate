@@ -10,7 +10,7 @@ This boilerplate already include some basics additional dependencies such as `Ax
 To starting this application, simply clone this repository by using this command
 
 ```
-    git clone https://github.com/ivandi1980/reactjs-boilerplate-.git
+    git clone https://github.com/ivandi1980/reactjs-boilerplate.git
 ```
 
 Or you can download directly by click the green button on the right corner.
